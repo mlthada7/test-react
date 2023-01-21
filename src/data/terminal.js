@@ -10,7 +10,7 @@ const terminal = [{
     title: "Terminal 2",
     publishedAt: "2022-01-15T23:22:19.000Z",
     summary: "loe2",
-    imageUrl: require("./logo512.png")
+    imageUrl: require("./images/logo512.png")
 }]
 
 export default terminal
