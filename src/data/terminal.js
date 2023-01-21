@@ -3,14 +3,14 @@ const terminal = [{
     title: "Terminal 1",
     publishedAt: "2023-01-15T23:22:19.000Z",
     summary: "lorem23",
-    imageUrl: "./images/logo192.png"
+    imageUrl: require("./images/logo192.png")
 },
 {
     id: 2,
     title: "Terminal 2",
     publishedAt: "2022-01-15T23:22:19.000Z",
     summary: "loe2",
-    imageUrl: "./logo512.png"
+    imageUrl: require("./logo512.png")
 }]
 
 export default terminal
